@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/brianmhofmeister/documentation-starter-kit.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Brian M Hofmeister <brianmhofmeister@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/brianmhofmeister/documentation-starter-kit/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/brianmhofmeister/documentation-starter-kit#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "2.0.1",
