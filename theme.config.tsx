@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>Playing With NextJS</span>,
+  logo: <span>TechCheats</span>,
   project: {
     link: 'https://github.com/brianmhofmeister/documentation-starter-kit',
   },
